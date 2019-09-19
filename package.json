@@ -1,6 +1,6 @@
 {
   "name": "random-emails-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Random Emails Generator",
   "main": "index.js",
   "bin": "./index.js",
@@ -12,5 +12,15 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "minimist": "^1.2.0"
-  }
+  },
+  "keywords": [
+    "domain",
+    "email",
+    "generator",
+    "random",
+    "randomize",
+    "randomly",
+    "tld",
+    "web"
+  ]
 }

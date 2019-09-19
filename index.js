@@ -35,12 +35,12 @@ function init() {
     if (args.help) {
         print('Random Emails Generator \n', 'cyan');
         print(`Arguments:
-            --count         | -c    |   (default: 1)
-            --domain        | -d    |  
-            --domain-level  | -dl   |   (default: 1)
-            --email-level   | -el   |   (default: 1)
-            --help          | -h    |   
-            --separator     | -s    |   (default: ', ')`,
+            --count        |   (default: 1)
+            --domain       |  
+            --domain-level |   (default: 1)
+            --email-level  |   (default: 1)
+            --help         |   
+            --separator    |   (default: ', ')`,
             'yellow',
         );
         return;
