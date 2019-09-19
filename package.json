@@ -10,6 +10,7 @@
   "author": "Alton Bell Smythe <abellsmythe@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^2.4.2"
+    "chalk": "^2.4.2",
+    "minimist": "^1.2.0"
   }
 }
